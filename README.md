@@ -12,6 +12,7 @@ The Acti4 program is a Matlab script for analysis of data recorded by ActiGraph 
 
 
 #### Legacy
+Acti4 has reached its final version (v2007). We have decided not to pursue further development or updates for this software, as we are focusing on developing the python based system called Motus instead (link below). Please note, while there will be no new updates, the current version will remain available for download and use.
 
 ### Publications
 
