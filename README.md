@@ -15,7 +15,8 @@ The Acti4 program is a Matlab script for analysis of data recorded by ActiGraph 
 Acti4 has reached its final version (v2007). We have decided not to pursue further development or updates for this software, as we are focusing on developing the python based system called Motus instead (link below). Please note, while there will be no new updates, the current version will remain available for download and use.
 
 ### Publications
-
+[Detection of physical activity types using triaxial accelerometers](https://pubmed.ncbi.nlm.nih.gov/23249722/)
+[Validity of the Acti4 method for detection of physical activity types in free-living settings: comparison with video analysis](https://pubmed.ncbi.nlm.nih.gov/25588819/)
 
 ### Systems developed based on Acti4
 
