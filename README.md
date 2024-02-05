@@ -22,6 +22,6 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 
 ### Systems developed based on Acti4
 
-[Motus (add link when public)](Motus github)
+[Motus](https://github.com/motus-nfa/Motus) - link will be available once github repository is published
 
 [ActiPASS](https://github.com/Ergo-Tools/ActiPASS)
