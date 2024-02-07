@@ -28,6 +28,26 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 
 If you are using Acti4 in your research, please cite 
 
+APA: 
+
+```
+The National Research Centre for the Working Environment. (2020). Acti4 Software (Version 2007) [Computer software]. https://github.com/motus-nfa/Acti4
+```
+
+BibTex:
+
+```
+@software{The_National_Research_Centre_for_the_Working_Environment_Acti4_Software_2020,
+author = {The National Research Centre for the Working Environment},
+month = jul,
+title = {{Acti4 Software}},
+url = {https://github.com/motus-nfa/Acti4},
+version = {2007},
+year = {2020}
+}
+```
+
+
 ### Systems developed based on Acti4
 
 [Motus](https://github.com/motus-nfa/Motus) - link will be available once github repository is published
