@@ -20,9 +20,13 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 
 [Validity of the Acti4 method for detection of physical activity types in free-living settings: comparison with video analysis](https://pubmed.ncbi.nlm.nih.gov/25588819/)
 
+[Comparison of physical behavior estimates from three different thigh-worn accelerometers brands: a proof-of-concept for the Prospective Physical Activity, Sitting, and Sleep consortium (ProPASS)](https://ijbnpa.biomedcentral.com/articles/10.1186/s12966-019-0835-0)
+
+[Validation of a Commercial and Custom Made Accelerometer-Based Software for Step Count and Frequency during Walking and Running](https://www.longdom.org/open-access/validation-of-a-commercial-and-custom-made-accelerometerbased-software-for-step-count-and-frequency-during-walking-and-r-20442.html)
+
 ### Citation
 
-If
+If you are using Acti4 in your research, please cite 
 
 ### Systems developed based on Acti4
 
