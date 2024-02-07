@@ -29,13 +29,11 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 If you are using Acti4 in your research, you can use the following citation 
 
 APA: 
-
 ```
 The National Research Centre for the Working Environment (NFA). (2020). Acti4 (Version v2007) [Computer software]. https://github.com/motus-nfa/Acti4
 ```
 
 BibTex:
-
 ```
 @software{The_National_Research_Centre_for_the_Working_Environment_NFA_Acti4_2020,
 author = {The National Research Centre for the Working Environment (NFA)},
