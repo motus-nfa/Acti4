@@ -26,7 +26,7 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 
 ### Citation
 
-If you are using Acti4 in your research, please cite 
+If you are using Acti4 in your research, you can use the following citation 
 
 APA: 
 
