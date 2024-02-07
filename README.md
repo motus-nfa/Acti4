@@ -20,6 +20,10 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 
 [Validity of the Acti4 method for detection of physical activity types in free-living settings: comparison with video analysis](https://pubmed.ncbi.nlm.nih.gov/25588819/)
 
+### Citation
+
+If
+
 ### Systems developed based on Acti4
 
 [Motus](https://github.com/motus-nfa/Motus) - link will be available once github repository is published
