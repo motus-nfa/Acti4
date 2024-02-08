@@ -24,6 +24,10 @@ Acti4 has reached its final version (v2007, July 2020). We have decided not to p
 
 [Validation of a Commercial and Custom Made Accelerometer-Based Software for Step Count and Frequency during Walking and Running](https://www.longdom.org/open-access/validation-of-a-commercial-and-custom-made-accelerometerbased-software-for-step-count-and-frequency-during-walking-and-r-20442.html)
 
+[Validity of the Acti4 software using ActiGraph GT3X+accelerometer for recording of arm and upper body inclination in simulated work tasks](https://www.tandfonline.com/doi/full/10.1080/00140139.2013.869358)
+
+[Detection of kneeling and squatting during work using wireless triaxial accelerometers](https://www.tandfonline.com/doi/full/10.1080/00140139.2020.1734668)
+
 ### Citation
 
 If you are using Acti4 in your research, you can use the following citation 
