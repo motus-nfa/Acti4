@@ -1,6 +1,6 @@
 # Acti4
 <h1 align="center">
-<img src="https://nfa.dk/sites/nfa/nfa_logo.png" width="700" alt="NFA logo" title="NFA logo">
+<img src="https://via.ritzau.dk/data/images/00256/d259274e-fd6f-485a-8928-4d2618d29f6e.jpg" width="700" alt="NFA logo" title="NFA logo">
 </h1><br>
 
 Developed by the National Research Centre for the Working Environment in Copenhagen.
